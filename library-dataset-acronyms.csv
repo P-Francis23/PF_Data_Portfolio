@@ -1,0 +1,57 @@
+Branch Code,Branch Heading,Heading,Heading Explanation,Item Type Code,Item Type Explanation
+ANN,Annerley,Title,Title of Item,AD-FICTION,Adult Fiction
+ASH,Ashgrove,Author,Author of Item,AD-MAGS,Adult Magazines
+BNO,Banyo,Call Number,Call Number of Item,AD-PBK,Adult Paperback
+BRR,Bracken Ridge,Item id,Unique Item Identifier,BIOGRAPHY,Biography
+BSQ,Brisbane Square Library,Item Type,Type of Item (see next column),BSQCDMUSIC,Brisbane Square CD Music
+BUL,Bulimba,Status,Current Status of Item,BSQCD-ROM,Brisbane Square CD Rom
+CDA,Corinda,Language,Published language of item (if not English),BSQ-DVD,Brisbane Square DVD
+CDE,Chermside,Age,Suggested audience,CD-BOOK,Compact Disc Book
+CNL,Carindale,Checkout Library,Checkout branch,CD-MUSIC,Compact Disc Music
+CPL,Coopers Plains,Date,Checkout date,CD-ROM,CD Rom
+CRA,Carina,,,DVD,DVD
+EPK,Everton Park,,,DVD_R18+,DVD Restricted - 18+
+FAI,Fairfield,,,FASTBACK,Fastback
+GCY,Garden City,,,FBKIDS,FastBack Kids
+GNG,Grange,,,GAYLESBIAN,LGBTIQ+ Collection
+HAM,Hamilton,,,GRAPHIC-NF,Non-Fiction Graphic Novel
+HPK,Holland Park,,,GRAPHICNOV,Graphic Novel
+INA,Inala,,,JU-BOARD,Board book
+IPY,Indooroopilly,,,JU-FICTION,Junior Fiction
+KEN,Kenmore,,,JU-GRAPHIC,Junior Graphic Novel
+MBG,Mt. Coot-tha,,,JU-MAGS,Junior Magazines
+MIT,Mitchelton,,,JU-PBK,Junior Paperback
+MTG,Mt. Gravatt,,,JU-READER,Junior Readers
+MTO,Mt. Ommaney,,,KITS,Kits
+NDH,Nundah,,,LARGEPRINT,Large Print
+NFM,New Farm,,,LGPRINTMAG,Large Print Magazine
+SBK,Sunnybank Hills,,,LITERACY,Literacy
+SCR,Stones Corner,,,LITERACYAV,Literacy Audio Visual
+SGT,Sandgate,,,LOCSTUDIES,Local Studies
+TWG,Toowong,,,LOTE-BIO,Languages Other than English Biography
+WND,West End,,,LOTE-BOARD,Languages Other than English Board Book
+WYN,Wynnum,,,LOTE-BOOK,Languages Other than English Book
+ZIL,Zillmere,,,LOTE-CDMUS,Languages Other than English CD Music
+,,,,LOTE-DVD,Languages Other than English DVD
+,,,,LOTE-FIC,Languages Other than English Fiction Book
+,,,,LOTE-GRPH,Languages Other than English Graphic Novel
+,,,,LOTE-MAG,Languages Other than English Magazine
+,,,,LOTE-NF,Languages Other than English Non Fiction Book
+,,,,LOTE-PICBK,Languages Other than English Picture Book
+,,,,LOTE-READ,Languages Other than English Reader
+,,,,LOTE-TB,Languages Other than English Taped Book
+,,,,MANGA,Manga
+,,,,MBG-DVD,Mt Coot-tha Botanical Gardens DVD
+,,,,MBG-MAG,Mt Coot-tha Botanical Gardens Magazine
+,,,,MBG-NF,Mt Coot-tha Botanical Gardens Non Fiction
+,,,,MBG-PBNF,Mt Coot-tha Library Picture Book
+,,,,MP3-BOOK,MP3 Audio Book
+,,,,NONFIC-SET,Non Fiction Set
+,,,,NONFICTION,Non Fiction
+,,,,PICTURE-BK,Picture Book
+,,,,PICTURE-NF,Picture Book Non Fiction
+,,,,PLD-BOOK,Public Libraries Division Book
+,,,,SOFTWARE,Launchpad
+,,,,YA-FICTION,Young Adult Fiction
+,,,,YA-MAGS,Young Adult Magazine
+,,,,YA-PBK,Young Adult Paperback
