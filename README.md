@@ -5,6 +5,6 @@ A case study on Brisbane City Library data obtained from the Brisbane city counc
 Case study is contained within the python notebook file "Brisbane Library.ipynb".
 
 Data sources used in this case study can be found at the following URLs: 
-[2025 Library Data](https://data.brisbane.qld.gov.au/explore/dataset/library-checkouts-2025/information/)
-[2024 Library Data](https://data.brisbane.qld.gov.au/explore/dataset/library-checkouts-2024/information/)
+[2025 Library Data](https://data.brisbane.qld.gov.au/explore/dataset/library-checkouts-2025/information/),
+[2024 Library Data](https://data.brisbane.qld.gov.au/explore/dataset/library-checkouts-2024/information/),
 [Library Location Information](https://data.brisbane.qld.gov.au/explore/dataset/libraries-information-location/information/)
