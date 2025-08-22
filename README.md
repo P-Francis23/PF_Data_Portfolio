@@ -9,6 +9,7 @@ Data sources used in this case study can be found at the following links:
 [Library Location Information](https://data.brisbane.qld.gov.au/explore/dataset/libraries-information-location/information/). 
 Supporting data is contained within the two CSV files that contain the word "Library" in their titles.
 
+-------------
 
 ### Australian Federal Elections Case Study:
 Case study is contained withing the python notebook file "Voting_Case_study.ipynb".
