@@ -26,6 +26,6 @@ Data sources used in this case study can be found at the following links:
 
 ### Big Bash League Report:
 Report is an interactive Power BI report available in three options - a PBIX file called "BBL_Case_Study", a PBIT file called "BBL_Case_Study(template)", and a non-interactive PDF file called "BBL_Case_Study".
-The data source for the report can be found at the following link (the CSV new format was used for all male BBL matches):
+The data source for the report can be found at the following link (the CSV new format for all male BBL matches was used):
 [Cricsheet](https://cricsheet.org/downloads/).
 The downloaded data, when unzipped, contains folders for each individual match. These folders were placed together within a parent folder and the Power BI report was connected to the parent folder using a folder connection.
