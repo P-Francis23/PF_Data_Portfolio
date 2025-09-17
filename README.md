@@ -21,3 +21,11 @@ Data sources used in this case study can be found at the following links:
 [2016 Election Data by Division](https://results.aec.gov.au/20499/Website/HouseDownloadsMenu-20499-Csv.htm) (under "votes by division"), 
 [2019 Election Data by Division](https://results.aec.gov.au/24310/Website/HouseDownloadsMenu-24310-Csv.htm) (under "votes by division"), 
 [2022 Election Data by Division](https://results.aec.gov.au/27966/Website/HouseDownloadsMenu-27966-Csv.htm) (under "votes by division").
+
+--------------
+
+### Big Bash League Report:
+Report is an interactive Power BI report available in three options - a PBIX file called "BBL_Case_Study", a PBIT file called "BBL_Case_Study(template)", and a non-interactive PDF file called "BBL_Case_Study".
+The data source for the report can be found at the following link (the CSV new format was used):
+[Cricsheet](https://cricsheet.org/downloads/).
+The downloaded data, when unzipped, contains folders for each individual match. These folders were placed together within a parent folder and the Power BI report was connected to the parent folder using a folder connection.
